@@ -1,0 +1,176 @@
+!Xterm-----------------------------------------
+
+!Кириллица
+XTerm*utf8Title: true
+XTerm*scaleHeight: 1.01
+xterm*borderWidth: 0
+xterm*bolfFont: 
+xterm*scrollBar:        false
+xterm*eightBitInput:    false
+xterm*metaSendsEscape:  true
+xterm*colorBDMode:      true
+xterm*boldMode:         on
+xterm*alwaysBoldMode:   false
+xterm*dynamicColors:    on
+xterm*colorMode:        on
+xterm*saveLines:        1000
+xterm*visualBell:       false
+
+xterm*faceName: Liberation Mono:antialias=true
+xterm*faceSize: 12
+xterm*vt100*geometry: 89x27
+xterm*loginShell: true
+xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
+xterm*termName: xterm-color
+
+!Theme Seventeen
+!*background: rgb:00/00/00
+!*foreground: rgb:e5/e5/e5
+!*color0:     rgb:00/00/00
+!*color1:     rgb:ff/50/50
+!*color2:     rgb:00/ff/00
+!*color3:     rgb:ff/ff/00
+!*color4:     rgb:00/00/ff
+!*color5:     rgb:ff/00/ff
+!*color6:     rgb:00/ff/ff
+!*color7:     rgb:ff/ff/ff
+!*color8:     rgb:ff/d3/9b
+!*color9:     rgb:ff/82/47
+!*color10:    rgb:ff/82/ab
+!*color11:    rgb:87/ce/fa
+!*color12:    rgb:ff/ff/ff
+!color13:    rgb:ff/ff/ff
+!color14:    rgb:ff/ff/ff
+!color15:    rgb:ff/ff/ff
+
+!Theme Three -было
+*background: rgb:22/2d/32
+*foreground: rgb:cf/cf/cf
+*color0:     rgb:22/2d/32
+*color1:     rgb:e0/10/10
+*color2:     rgb:20/ad/20
+*color3:     rgb:d4/c2/4f
+*color4:     rgb:23/1b/b8
+*color5:     rgb:9c/38/85
+*color6:     rgb:1d/bd/b8
+*color7:     rgb:fe/fe/fe
+*color8:     rgb:00/00/00
+*color9:     rgb:e8/6c/6c
+*color10:    rgb:35/e9/56
+*color11:    rgb:ff/ff/2f
+*color12:    rgb:3a/53/f0
+*color13:    rgb:e6/28/ba
+*color14:    rgb:1c/f5/f5
+*color15:    rgb:ff/ff/ff
+
+! Dracula Xresources palette
+!*.foreground: #F8F8F2
+!*.background: #282A36
+!*.color0:     #000000
+!*.color8:     #4D4D4D
+!*.color1:     #FF5555
+!*.color9:     #FF6E67
+!*.color2:     #50FA7B
+!*.color10:    #5AF78E
+!*.color3:     #F1FA8C
+!*.color11:    #F4F99D
+!*.color4:     #BD93F9
+!*.color12:    #CAA9FA
+!*.color5:     #FF79C6
+!*.color13:    #FF92D0
+!*.color6:     #8BE9FD
+!*.color14:    #9AEDFE
+!*.color7:     #BFBFBF
+!*.color15:    #E6E6E6
+
+
+
+
+!Theme Six
+!*background: rgb:21/21/21
+!*foreground: rgb:be/be/be
+!*color0:     rgb:00/00/00
+!*color1:     rgb:bf/72/76
+!*color2:     rgb:86/af/80
+!*color3:     rgb:96/8a/38
+!*color4:     rgb:36/73/b5
+!*color5:     rgb:9a/70/b2
+!*color6:     rgb:7a/be/cc
+!*color7:     rgb:db/db/db
+!*color8:     rgb:66/92/af
+!*color9:     rgb:e5/50/5f
+!*color10:    rgb:87/bc/87
+!*color11:    rgb:e0/d9/5c
+!*color12:    rgb:1b/85/d6
+!*color13:    rgb:ad/73/ba
+!*color14:    rgb:33/8e/aa
+!*color15:    rgb:f4/f4/f4
+
+URxvt*color0         : _color0
+URxvt*color1         : _color1
+URxvt*color2         : _color2
+URxvt*color3         : _color3
+URxvt*color4         : _color4
+URxvt*color5         : _color5
+URxvt*color6         : _color6
+URxvt*color7         : _color7
+URxvt*color8         : _color8
+URxvt*color9         : _color9
+URxvt*color10        : _color10
+URxvt*color11        : _color11
+URxvt*color12        : _color12
+URxvt*color13        : _color13
+URxvt*color14        : _color14
+URxvt*color15        : _color15
+URxvt*colorBD        : _colorBD
+URxvt*colorIT        : _colorIT
+URxvt*colorUL        : _colorUL
+URxvt*foreground     : white
+URxvt*background     : black
+URxvt*cursorColor    : _cursorColor
+
+!             X C A L C
+xcalc*geometry:                         200x275
+xcalc.ti.bevel.background:              #111111
+xcalc.ti.bevel.screen.background:       #000000
+xcalc.ti.bevel.screen.DEG.background:   #000000
+xcalc.ti.bevel.screen.DEG.foreground:   LightSeaGreen
+xcalc.ti.bevel.screen.GRAD.background:  #000000
+xcalc.ti.bevel.screen.GRAD.foreground:  LightSeaGreen
+xcalc.ti.bevel.screen.RAD.background:   #000000
+xcalc.ti.bevel.screen.RAD.foreground:   LightSeaGreen
+xcalc.ti.bevel.screen.INV.background:   #000000
+xcalc.ti.bevel.screen.INV.foreground:   Red
+xcalc.ti.bevel.screen.LCD.background:   #000000
+xcalc.ti.bevel.screen.LCD.foreground:   LightSeaGreen
+xcalc.ti.bevel.screen.LCD.shadowWidth:  0
+xcalc.ti.bevel.screen.M.background:     #000000
+xcalc.ti.bevel.screen.M.foreground:     LightSeaGreen
+xcalc.ti.bevel.screen.P.background:     #000000
+xcalc.ti.bevel.screen.P.foreground:     Yellow
+xcalc.ti.Command.foreground:  			White
+xcalc.ti.Command.background:  			#777777
+xcalc.ti.button5.background:  			Orange3
+xcalc.ti.button19.background: 			#611161
+xcalc.ti.button18.background: 			#611161
+xcalc.ti.button20.background: 			#611111
+xcalc.ti.button25.background: 			#722222
+xcalc.ti.button30.background: 			#833333
+xcalc.ti.button35.background: 			#944444
+xcalc.ti.button40.background:			#a55555
+xcalc.ti.button22.background: 			#222262
+xcalc.ti.button23.background: 			#222262
+xcalc.ti.button24.background: 			#222272
+xcalc.ti.button27.background: 			#333373
+xcalc.ti.button28.background: 			#333373
+xcalc.ti.button29.background: 			#333373
+xcalc.ti.button32.background: 			#444484
+xcalc.ti.button33.background: 			#444484
+xcalc.ti.button34.background: 			#444484
+xcalc.ti.button37.background: 			#555595
+xcalc.ti.button38.background: 			#555595
+xcalc.ti.button39.background: 			#555595
+XCalc*Cursor: hand2
+XCalc*ShapeStyle: rectangle
+XCalc*font:  -adobe-helvetica-bold-r-normal--*-220-*-*-*-*-iso*-*
+
